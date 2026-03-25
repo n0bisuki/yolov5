@@ -1,0 +1,7 @@
+path: H:/cheat/uold/YolovAITrain/scripting/train-datasets
+train: datasets-1800/images/train
+val: datasets-1800/images/val 
+
+names:
+  0: 'enemy'
+  1: 'enemy_head'
